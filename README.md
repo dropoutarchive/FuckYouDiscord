@@ -15,7 +15,7 @@
     <img src="https://thankyoudiscord.com/_nuxt/img/logo.3d1b5dd.png" alt="Logo" width="120" height="120">
   </a>
   
-  <h2 align="center">Discord Mass DM</h3>
+  <h2 align="center">FuckYouDiscord</h3>
 
   <p align="center">
     Authenticates and signs a discord banner, because we love discord <3
